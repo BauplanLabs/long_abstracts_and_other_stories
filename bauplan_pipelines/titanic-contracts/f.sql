@@ -4,3 +4,4 @@
   SELECT PassengerId AS pid, Pclass AS tclass
     FROM titanic
    WHERE Pclass IN (1, 2) AND Sex = 'female'
+
