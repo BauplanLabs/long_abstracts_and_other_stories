@@ -6,5 +6,5 @@ Bauplan, a "project" contains the logic for each transformation in a data pipeli
 
 ## Titanic Contracts
 
-The `titanic-contracts` directory contains a Bauplan project using new type contract
+The `bauplan-contracts` directory contains a Bauplan project using new type contract
 syntax for a simple titanic dataset.
